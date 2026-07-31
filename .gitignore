@@ -1,0 +1,10 @@
+.DS_Store
+.gradle/
+**/build/
+android/local.properties
+firmware/built/
+firmware/pxt_modules/
+node_modules/
+*.apk
+*.hex
+
