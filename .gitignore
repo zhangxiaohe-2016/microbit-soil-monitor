@@ -2,7 +2,7 @@
 .gradle/
 **/build/
 android/local.properties
-firmware/built/
+**/built/
 firmware/pxt_modules/
 node_modules/
 *.apk
